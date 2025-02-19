@@ -44,7 +44,7 @@ docker stop meu-projeto
 
 ## Exemplo da primeira camada:
 
-![Ofensores](./assets/ofensores.png.png)
+![Ofensores](./assets/ofensores.png)
 
 ## Exemplo da segunda camada (TI):
 
