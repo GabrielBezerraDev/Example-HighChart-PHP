@@ -1,0 +1,17 @@
+{
+    "name": "bezer/high-chart",
+    "autoload": {
+        "psr-4": {
+            "Bezer\\HighChart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GabrielBezerraDev",
+            "email": "bezerrag363@gmail.com"
+        }
+    ],
+    "require": {
+        "ghunti/highcharts-php": "^5.0"
+    }
+}
